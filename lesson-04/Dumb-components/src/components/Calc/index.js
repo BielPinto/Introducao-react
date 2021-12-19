@@ -12,7 +12,6 @@ function Calc (props) {
            <p>
                 Valor Maximo: {max}
            </p>
-
            <input type="text" onChange={onChange}/>
        </div>
     )
